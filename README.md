@@ -1,8 +1,8 @@
-# Title
-# yes
-Simple (or clever and funny?) description
+# Mhmm
+# Indeed
+:D
 
-## Table of Contents
+## Cotents
 
 - [Background](#background)
 
@@ -12,14 +12,15 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+ application exists.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+These are the steps to setup your local environment to run this application.  ( wat  )
 
 ## Usage
 
 These are the steps to use the application or interact with it.
 
 ### Any optional sections
+yes
