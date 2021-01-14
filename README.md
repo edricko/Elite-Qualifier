@@ -20,7 +20,7 @@ These are the steps to setup your local environment to run this application.  ( 
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+used
 
 ### Any optional sections
 yes
